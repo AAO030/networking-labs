@@ -10,6 +10,8 @@ Each lab includes methodology, annotated packet-capture screenshots, and finding
 |---|---|---|
 | [Wireshark HTTP Analysis](./wireshark-http) | HTTP/1.1, caching, TCP segmentation, authentication | Packet inspection, protocol debugging, traffic analysis |
 | [Password Cracking with John the Ripper](./john-the-ripper-lab) | Password hashing, dictionary/hybrid/brute-force attacks, entropy | Offensive security tooling, quantitative risk analysis |
+| [Network Reconnaissance with Nmap & tcpdump](./nmap-tcpdump-recon-lab) | Host discovery, port scanning, OS fingerprinting, live traffic capture | Offensive security tooling, IDS evasion awareness, packet analysis |
+| [SSL/TLS Protocol Analysis](./ssl-tls-lab) | TLS handshake, cipher suites, certificates, encrypted records | Cryptographic protocol analysis, packet-level security review |
 
 *(More labs added as completed — TCP, DNS, TLS, and routing protocol analysis planned.)*
 
